@@ -7,12 +7,7 @@ This is my personal portfolio website, showcasing my projects and skills. It's b
 
 Home page with a brief introduction and links to other sections (that are on construction).
 
-About page with more details about me and my background.
-
-Portfolio page with a gallery of my projects, each displayed in a card format with an image, title, and brief description
-
 Responsive design that adjusts to different screen sizes, with a burger menu that appears on smaller screens
-Social media links in the footer
 
 
 ## Getting Started
