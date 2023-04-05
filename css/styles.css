@@ -202,14 +202,15 @@ nav {
   .burger {
     display: block;
   }
-  /* On cache le menu de navigation */
+  /* On cache les liens de la navbar */
   .nav-links {
     display: none;
   }
-  
 }
 
+/* Pour les mobiles (largeur d'écran inférieure à 480px) */
 @media screen and (max-width: 480px) {  
+  /* On cache le paragraphe de présentation */
   #presentation p {
     display: none;
   }
